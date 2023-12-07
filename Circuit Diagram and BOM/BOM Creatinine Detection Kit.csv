@@ -1,6 +1,6 @@
 "ID",Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part Link
 1,Adafruit TCS34725,P1,CJMCU-34725 TCS34725 Color Sensor RGB Module ,1,,,Robu,https://robu.in/product/cjmcu-34725-tcs34725-color-sensor-rgb-development-board-module/
 2,ESP32S COPY,U1,ESP WROOM 32 MCU Module Version: 1.1,1,,,Robu,https://robu.in/product/esp-wroom-32-esp32-wifi-bt-ble-mcu-module/
-3,Jumpuer Wires Female to Female,,"
+3,Jumper Wires Female to Female,,"
 10CM Female to Female Breadboard Jumper DuPont 2.54MM 1P-1P Cable 40 Pcs",4,,,Robu,https://robu.in/product/10cm-female-female-breadboard-jumper-dupont-2-54mm-1p-1p-cable-40-pcs/
 4,USB Type B,,Xiaomi Mi Micro Usb,1,,,Amazon,https://www.amazon.in/Mi-Micro-Braided-Cable-100cm/dp/B07QTL35JG/
